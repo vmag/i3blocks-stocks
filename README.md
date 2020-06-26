@@ -1,5 +1,7 @@
 # i3blocks-stocks
-##Example
+---
+
+## Example
 
 To display S&P Futures on the i3bar, add this configuration to i3blocks.conf
 
